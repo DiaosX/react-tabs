@@ -1,11 +1,13 @@
 {
   "name": "pitaya-web-tabs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React tabs component",
   "main": "lib/main.js",
   "scripts": {
     "test": "./node_modules/.bin/rackt test --single-run --browsers Firefox",
-    "start": "./node_modules/.bin/rackt server"
+    "start": "./node_modules/.bin/rackt server",
+    "build": "rackt build",
+    "deploy": "rackt release"
   },
   "repository": {
     "type": "git",
