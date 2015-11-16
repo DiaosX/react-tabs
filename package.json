@@ -1,6 +1,6 @@
 {
   "name": "pitaya-web-tabs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React tabs component",
   "main": "lib/main.js",
   "scripts": {
@@ -35,6 +35,8 @@
     "react-addons-test-utils": "^0.14.0"
   },
   "dependencies": {
+    "babel":"^5.8.23",
+    "babel-runtime": "^5.8.20",
     "classnames": "2.2.0",
     "js-stylesheet": "0.0.1"
   }
