@@ -1,6 +1,6 @@
 {
-  "name": "pitaya-web-tabs",
-  "version": "0.0.6",
+  "name": "pitayax-web-tabs",
+  "version": "0.0.1",
   "description": "React tabs component",
   "main": "lib/main.js",
   "scripts": {
